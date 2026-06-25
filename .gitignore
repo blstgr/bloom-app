@@ -58,6 +58,7 @@ coverage/
 *.jsbundle
 storybook-static/
 .codex/
+.claude/
 docs/
 
 # Fastlane
