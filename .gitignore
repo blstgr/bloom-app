@@ -57,9 +57,16 @@ temp/
 coverage/
 *.jsbundle
 storybook-static/
+
+# Local agent instructions / working docs
 .codex/
 .claude/
-docs/
+CLAUDE.md
+FINDINGS.md
+docs/*
+!docs/screenshots/
+docs/screenshots/*
+!docs/screenshots/*.png
 
 # Fastlane
 **/fastlane/report.xml
